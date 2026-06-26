@@ -137,7 +137,7 @@ nextBtn.onclick=function(){
 
     else{
 
-        questionTitle.innerHTML="seeing which one will good for health 🫣";
+        questionTitle.innerHTML="which one of the view is more pretty 🫣";
 
         option1.src="assets/images/q4a.jpeg";
         option2.src="assets/images/q4b.jpeg";
